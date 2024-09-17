@@ -12,9 +12,11 @@ clases version 2
 
 -CODIGO
 
--![image](https://github.com/user-attachments/assets/deb7eb00-285c-4a25-b8b2-491ae237d4aa)
+-![image](https://github.com/user-attachments/assets/af16f25d-22c5-4015-a9cc-1f8fc43eaaef)
+
 
 -RESULTADOS
 
--![image](https://github.com/user-attachments/assets/bcbff80d-763c-486b-8642-294d11ee3d64)
+-![image](https://github.com/user-attachments/assets/8ba644a9-0e1c-46d7-a9e6-eb5f43999223)
+
 
